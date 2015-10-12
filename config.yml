@@ -1,8 +1,8 @@
 <<<<<<< HEAD
 wechat_id: wxbcbdff1041616960 #replace this with your wechat id
 =======
-wechat_id: we-chat-tutorial #replace this with your wechat id
->>>>>>> 4fcb465f13560f6ef2a435a0bfeeebee3b361225
+wechat_id:wxbcbdff1041616960 #replace this with your wechat id
+>>>>>>> 5ad252dcfb6a7825ee9d0cb1011d8b97
 help_message: your help message
 welcome_message:
   title: 微信公众账户开发指南
