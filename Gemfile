@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 source 'https://rubygems.org'
 
 
@@ -43,3 +44,13 @@ group :development, :test do
   gem 'spring'
 end
 
+=======
+source "https://rubygems.org"
+ruby "2.0.0"
+gem 'sinatra', '1.1.0'
+gem 'nokogiri'
+
+group :test do
+	gem 'rspec'
+end
+>>>>>>> e08a51338867bfb4b71ac3a9fb25bd738e62045a
